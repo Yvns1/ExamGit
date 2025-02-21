@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## Contribution
 
@@ -6,3 +7,4 @@ Pour contribuer à ce projet, veuillez :
 - Soumettre une pull request avec une description détaillée.
 - Une fois modifié, enregistrez le fichier et validez les changements.
 - Retournez sur la branche principale (main / master).
+=======
